@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89b8bd07-5df1-490f-a331-8cc6b017c15c" name="Changes" comment="Set up CRUD interface" />
+    <list default="true" id="89b8bd07-5df1-490f-a331-8cc6b017c15c" name="Changes" comment="Set up Motorcycle class with getters and setters" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -79,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684753230897</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Set up Motorcycle class with getters and setters">
+      <created>1684753589188</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684753589189</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,7 +100,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="CRUD_interface" />
+                        <option value="MotoGetSet" />
                       </list>
                     </value>
                   </entry>
@@ -109,6 +116,7 @@
     <MESSAGE value="Set up POM file" />
     <MESSAGE value="Set up test connection class" />
     <MESSAGE value="Set up CRUD interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Set up CRUD interface" />
+    <MESSAGE value="Set up Motorcycle class with getters and setters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set up Motorcycle class with getters and setters" />
   </component>
 </project>
