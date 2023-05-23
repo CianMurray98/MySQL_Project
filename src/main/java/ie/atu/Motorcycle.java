@@ -17,7 +17,7 @@ package ie.atu;
         this.licence_catagory = licence_catagory;
     }
 
-    // Getters and setters
+    // Getters and setters not needed, but kept as is good practice.
     public String getMake() {
         return make;}
     public void setMake(String make) {
@@ -48,4 +48,4 @@ package ie.atu;
     public void setlicence_catagory(String licence_catagory) {
         this.licence_catagory = licence_catagory;}
 
-}
+    }

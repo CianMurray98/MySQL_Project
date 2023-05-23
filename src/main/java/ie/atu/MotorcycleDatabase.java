@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class MotorcycleDatabase {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
 
+        Scanner scanner = new Scanner(System.in);
         System.out.println("Welcome to my Motorcycle Database !");
 
         while (true) {
@@ -42,7 +42,7 @@ public class MotorcycleDatabase {
                 String licence_catagory = scanner.nextLine();
                 //scanner.nextLine();
 
-                System.out.println("Enter the Top Speed:");
+                System.out.println("Enter the Top Speed (km/h):");
                 int topSpeed = scanner.nextInt();
 
                 RacerBike racerBike = new RacerBike(make, model, year, bhp, style, licence_catagory, topSpeed);
@@ -79,7 +79,7 @@ public class MotorcycleDatabase {
                 String licence_catagory = scanner.nextLine();
                 scanner.nextLine();
 
-                System.out.println("Enter the new Top Speed:");
+                System.out.println("Enter the new Top Speed (km/h):");
                 int topSpeed = scanner.nextInt();
 
                 RacerBike racerBike = new RacerBike(make, model, year, bhp, style, licence_catagory, topSpeed);
@@ -99,8 +99,8 @@ public class MotorcycleDatabase {
             } else {
                 System.out.println("Invalid choice. Please try again.");
             }
-        }
+            }
 
-        scanner.close();
-    }
-}
+            scanner.close();
+            }
+            }
