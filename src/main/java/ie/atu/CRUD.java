@@ -5,4 +5,4 @@ public interface CRUD {         //Contract
     void read();
     void update();
     void delete();
-}
+    }

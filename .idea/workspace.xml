@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89b8bd07-5df1-490f-a331-8cc6b017c15c" name="Changes" comment="Set up CRUD implementation class with Create, Read, Update and Delete">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/RacerBike.java" afterDir="false" />
+    <list default="true" id="89b8bd07-5df1-490f-a331-8cc6b017c15c" name="Changes" comment="Set up main class for command-line frontend">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/CRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/CRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Motorcycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Motorcycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/MotorcycleDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/MotorcycleDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/RacerBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/RacerBike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/testConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/testConnection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="FrontEnd" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -96,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684753910567</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Set up main class for command-line frontend">
+      <created>1684754169322</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684754169322</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,7 +121,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="CRUDimplementation" />
+                        <option value="FrontEnd" />
                       </list>
                     </value>
                   </entry>
@@ -128,6 +139,7 @@
     <MESSAGE value="Set up CRUD interface" />
     <MESSAGE value="Set up Motorcycle class with getters and setters" />
     <MESSAGE value="Set up CRUD implementation class with Create, Read, Update and Delete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Set up CRUD implementation class with Create, Read, Update and Delete" />
+    <MESSAGE value="Set up main class for command-line frontend" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set up main class for command-line frontend" />
   </component>
 </project>
